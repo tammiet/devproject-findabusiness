@@ -1,5 +1,5 @@
 ## A simple search tool for local businesses
-#### To run:
+#### To run
 - npm install
 - npm run serve
 
